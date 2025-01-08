@@ -112,7 +112,7 @@ AWS S3 issues: Handles permission errors and connectivity issues gracefully.
 Feel free to fork the repository and submit pull requests to improve the system.
 
 🤝 Acknowledgments
-[OpenWeather API Keys](https://bit.ly/openweatherapi)
+OpenWeather API Keys
 AWS
 Python community for awesome libraries and tools.
 
